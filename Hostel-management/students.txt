@@ -1,8 +1,1 @@
-STU1001|Isha Regmi|9808765490|Sudip Regmi|9708908976|Single|10|Veg
-STU1002|Eima Lama|9867675476|Suveksha Lama|9809097654|Single|8|NonVeg
-STU1003|Priyanka Ghising|9723456780|smriti Ghising|9789065432|Double|10|NonVeg
-STU1004|Jessica Sunar|9807766554|Sujan Sunar|9800996655|Double|8|Veg
-STU1005|Subarna Malla|9876543210|Surya Narayan Malla |9876540985|Triple|10|NonVeg
-STU1006|Shreya Shrestha|9709876543|Keshav Shrestha|9806547447|Triple|8|Veg
-STU1007|Neha Khadka|9877654554|Pushpa Khadka|9788665544|Double|1|Outside
-STU1008|Punam Basnet|9806544332|Purnima Basnet|9877660044|Triple|1|Outside
+
